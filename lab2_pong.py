@@ -543,7 +543,7 @@ def main() -> None:
 
     pygame.init()
     screen = pygame.display.set_mode((WIDTH, HEIGHT))
-    pygame.display.set_caption("Lab 2 - Pong")
+    pygame.display.set_caption("Lab 2 - Pong - OSCAR")
     clock = pygame.time.Clock()
 
     # Initial state (no lists or objects)
